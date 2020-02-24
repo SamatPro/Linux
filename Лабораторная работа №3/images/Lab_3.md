@@ -1,4 +1,4 @@
-![Image alt](https://github.com/SamatPro/Linux/Лабораторная работа №3/images/image1.png)
+![Image alt](https://github.com/SamatPro/Linux/Лабораторная\ работа\ №3/images/image1.png)
 ![Image alt](https://github.com/SamatPro/Linux/Лабораторная работа №3/images/image2.png)
 ![Image alt](https://github.com/SamatPro/Linux/Лабораторная работа №3/images/image3.png)
 ![Image alt](https://github.com/SamatPro/Linux/Лабораторная работа №3/images/image4.png)
